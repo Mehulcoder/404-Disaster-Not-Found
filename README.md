@@ -4,12 +4,6 @@
 3. Run command `python3 manage.py migrate`
 4. Run command `python3 manage.py runserver`
 
-# Microsoft codefundo++ 2018
-Project Name: 404 Disaster Not Found <br>
-Team Name: 404 Brain Not Found <br>
-Team Members: Lavish Gulati, Mayank Baranwal, Chirag Gupta <br>
-Organization: Indian Institute of Technology Guwahati
-
 
 ## Project Description
 
